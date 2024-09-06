@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stalinprevancrasta" alt="stalinprevancrasta" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, Java**
+- 🌱 I’m currently solving **DSA using Java in LeetCode**
 
-- 📫 How to reach me **prevanstalin@gmail.com**
+- 📫 How to reach me **stalinprevancrasta@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
