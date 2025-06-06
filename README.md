@@ -11,6 +11,12 @@ I love writing clean Java code, solving DSA problems, and collaborating on open-
 
 ---
 
+### 🌐 Portfolio
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.stalincrasta.xyz/)
+
+---
+
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/stalincrasta)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stalinprevancrasta@gmail.com)
